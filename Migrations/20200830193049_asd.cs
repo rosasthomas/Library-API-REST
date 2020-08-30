@@ -2,7 +2,7 @@
 
 namespace Library.Migrations
 {
-    public partial class MyFirstMigration : Migration
+    public partial class asd : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -38,16 +38,27 @@ namespace Library.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Books", x => x.idBook);
+                    table.ForeignKey(
+                        name: "FK_Books_Authors_idAuthor",
+                        column: x => x.idAuthor,
+                        principalTable: "Authors",
+                        principalColumn: "idAuthor",
+                        onDelete: ReferentialAction.Cascade);
                 });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Books_idAuthor",
+                table: "Books",
+                column: "idAuthor");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Authors");
+                name: "Books");
 
             migrationBuilder.DropTable(
-                name: "Books");
+                name: "Authors");
         }
     }
 }

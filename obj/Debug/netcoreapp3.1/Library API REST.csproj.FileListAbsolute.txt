@@ -59,3 +59,69 @@ C:\Users\rosas\source\repos\API REST\obj\Debug\netcoreapp3.1\staticwebassets\Lib
 C:\Users\rosas\source\repos\API REST\obj\Debug\netcoreapp3.1\Library API REST.dll
 C:\Users\rosas\source\repos\API REST\obj\Debug\netcoreapp3.1\Library API REST.pdb
 C:\Users\rosas\source\repos\API REST\obj\Debug\netcoreapp3.1\Library API REST.genruntimeconfig.cache
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Library API REST.exe
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Library API REST.deps.json
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Library API REST.runtimeconfig.json
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Library API REST.runtimeconfig.dev.json
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Library API REST.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Library API REST.pdb
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.csprojAssemblyReference.cache
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.AssemblyInfoInputs.cache
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.AssemblyInfo.cs
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.RazorTargetAssemblyInfo.cache
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.csproj.CopyComplete
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\staticwebassets\Library API REST.StaticWebAssets.Manifest.cache
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\staticwebassets\Library API REST.StaticWebAssets.xml
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.dll
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.pdb
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.genruntimeconfig.cache
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.csproj.CoreCompileInputs.cache
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rosas\source\repos\Library API REST\obj\Debug\netcoreapp3.1\Library API REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rosas\source\repos\Library API REST\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll

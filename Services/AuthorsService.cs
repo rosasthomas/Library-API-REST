@@ -74,7 +74,6 @@ namespace Library.Services
             else
             {
                 this._context.Authors.Remove(target);
-                this._context.SaveChanges();
                 return this._context.SaveChanges() > 0 ? true : false;
             }
         }

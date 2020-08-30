@@ -12,7 +12,11 @@ namespace Library.Models
     {
         [Key]
         public int idBook { get; set; }
-        public int idAuthor { get; set; }
+
+        public int idAuthor;
+        
+        [ForeignKey("idAuthor")]
+        public Author Authors { get; set; }
         public string title { get; set; }
         public string description { get; set; }
         public string section { get; set; }

@@ -29,9 +29,24 @@ namespace Library
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
             services.AddDbContext<LibraryDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddScoped<IBooksService, BooksService>();
             services.AddScoped<IAuthorsService, AuthorsService>();
+
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v1",
+                    new Microsoft.OpenApi.Models.OpenApiInfo
+                    {
+                        Title = "Library API REST - Rosas Thomas",
+                        Description = "API REST for books in a library",
+                        Version = "v1"
+                    });
+            });
+
             services.AddMvc();
         }
 
@@ -52,6 +67,12 @@ namespace Library
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+
+            app.UseSwagger();
+            app.UseSwaggerUI(options => {
+                options.SwaggerEndpoint("/swagger/v1/swagger.json", "Library API REST");
+                options.RoutePrefix = "";
             });
         }
     }
